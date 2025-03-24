@@ -1,0 +1,19 @@
+{
+    "dbcode.connections": [
+        {
+            "connectionId": "0wZOmGhTQYFaph1yuPNIQ",
+            "name": "belajar postgresql",
+            "driver": "postgres",
+            "connectionType": "host",
+            "host": "localhost",
+            "port": 5432,
+            "ssl": false,
+            "username": "postgres",
+            "password": "",
+            "savePassword": "secretStorage",
+            "database": "belajar_postgres",
+            "readOnly": false,
+            "connectionTimeout": 30
+        }
+    ]
+}
