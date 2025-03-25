@@ -15,8 +15,8 @@ My personal plan to achieve high skills with focus and consistent progress.
 - ✅ Understand `psql` CLI and basic commands  
 - ✅ Create and manage databases (`CREATE DATABASE`, `DROP DATABASE`)  
 - ✅ Create tables and define data types, ref: [postgres data types](https://www.postgresql.org/docs/current/datatype.html)
-- Basic CRUD operations (`INSERT`, `SELECT`, `UPDATE`, `DELETE`)  
-- Filtering data with `WHERE`, `ORDER BY`, `GROUP BY`, `HAVING`  
+- ✅ Basic CRUD operations (`INSERT`, `SELECT`, `UPDATE`, `DELETE`)  
+- ✅ Filtering data with `WHERE`, `ORDER BY`, `GROUP BY`, `HAVING`  
 - Basic JOIN (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)  
 - Understanding **Primary Key, Foreign Key, Unique, Check Constraints**  
 - Introduction to indexing (`B-Tree`, Unique Index)  
