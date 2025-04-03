@@ -18,9 +18,9 @@ My personal plan to achieve high skills with focus and consistent progress.
 - ✅ Basic CRUD operations (`INSERT`, `SELECT`, `UPDATE`, `DELETE`)  
 - ✅ Filtering data with `WHERE`, `ORDER BY`, `GROUP BY`, `HAVING`  
 - Basic JOIN (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)  
-- Understanding **Primary Key, Foreign Key, Unique, Check Constraints**  
+- ✅ Understanding **Primary Key, Foreign Key, Unique, Check Constraints**  
 - Introduction to indexing (`B-Tree`, Unique Index)  
-- Backup & restore database (`pg_dump`, `pg_restore`)  
+- ✅ Backup & restore database (`pg_dump`, `pg_restore`)  
 
 #### **Week 2 (March 30 - April 5) | Intermediate**
 - Advanced indexing (`GIN`, `BRIN`, Partial Index, Expression Index)  
@@ -80,7 +80,7 @@ My personal plan to achieve high skills with focus and consistent progress.
 ## **Resources**
 - 📖 [PostgreSQL Official Documentation](https://www.postgresql.org/docs/)  
 - 🎥 [PostgreSQL YouTube Tutorials](https://www.youtube.com/results?search_query=postgresql+tutorial) 
-- 🎥 [PostgreSQL tutorial in indonesian by Programmer Zaman Now](https://www.youtube.com/watch?v=iEeveYoD0SA) 
+- 🎥 [PostgreSQL basic tutorial in indonesian by Programmer Zaman Now](https://www.youtube.com/watch?v=iEeveYoD0SA) 
 - 📝 [Practical SQL Exercises](https://www.sqlzoo.net/wiki/PostgreSQL)  
 - 🛠️ [PgAdmin (PostgreSQL GUI)](https://www.pgadmin.org/)  
 
